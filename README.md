@@ -1,2 +1,8 @@
 # Gitirfan
-Git Project 
+Git Project  
+this 
+is 
+a 
+new 
+git
+program
